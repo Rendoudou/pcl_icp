@@ -1,0 +1,4 @@
+1.录制好bag包后，想要从bag包中提取pcd图。
+	1）首先要在一个终端中运行roscore
+	2) 再打开一个终端，运行rosrun pcl_ros bag_to_pcd [bag包名字] /cloud [存储路径]
+		example: rosrun pcl_ros bag_to_pcd homework_3.bag  /cloud file

@@ -1,0 +1,3 @@
+/home/doudou/v2t_homework_3/build/CMakeFiles/rebuild_cache.dir
+/home/doudou/v2t_homework_3/build/CMakeFiles/edit_cache.dir
+/home/doudou/v2t_homework_3/build/CMakeFiles/pc_icp.dir
